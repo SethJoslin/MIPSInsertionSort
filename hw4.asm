@@ -1,11 +1,3 @@
-# CS3223 Homework 4
-# Purpose: For this assignment, write a program using MIPS assembly that can run in the SPIM 
-#          simulator and receives numbers as input from the user and prints them in sorted order.
-#
-# The following is done using insertion sort.
-# Name: Seth Joslin
-# Date: 11/11
-
 .data
 initial_prompt:  .asciiz "How many numbers would you like to enter? "
 part_one_prompt: .asciiz "Enter the number at index "
